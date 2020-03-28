@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Instantiates stars and draws them to the world
  * 
- * @author Bruce Gustin
- * @version 3/15/2020 v1
+ * @author Emerson Coskey, Bruce Gustin
+ * @version 3/28/2020 v2
  */
 public class Space extends World
 {
